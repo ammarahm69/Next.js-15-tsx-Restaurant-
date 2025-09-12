@@ -2,8 +2,6 @@
 
 import Image from "next/image";
 import { useState } from "react";
-import ReactCountryFlag from "react-country-flag";
-import { ChevronDown } from "lucide-react";
 
 const Navbar = () => {
     const [isMenuOpen, setIsMenuOpen] = useState(false);

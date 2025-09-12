@@ -2,10 +2,6 @@
 
 import Image from "next/image";
 import {
-    MapPin,
-    Clock,
-    Phone,
-    Mail,
     Download,
     Smartphone
 } from "lucide-react";
